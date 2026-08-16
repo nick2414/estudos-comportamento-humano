@@ -241,4 +241,3 @@ Este projeto segue a licença CC-BY (Creative Commons Attribution). Respeite os 
 
 ---
 
-*README atualizado com conteúdo consolidado conforme as recomendações para demonstrar maturidade técnica do projeto.*
